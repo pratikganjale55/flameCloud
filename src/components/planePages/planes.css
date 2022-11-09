@@ -1,0 +1,33 @@
+.subPlanes {
+    padding: 1%;
+    margin: 1%;
+    cursor: pointer;
+}
+
+.subCategoryPlanesDiv{
+    padding: 1%;
+    cursor: pointer;
+   width: 99%;
+   box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+.subCategoryPlanesDiv:hover {
+    border: none;
+    background-color: rgb(220, 220, 245);
+}
+.eachParentDiv{
+    margin: 2%;
+    
+}
+.childDiv{
+    width: 99%;
+   margin-top: 1%;
+   cursor: pointer;
+  
+   box-shadow: rgba(0, 0, 0, 0.1) 0px 1px 3px 0px, rgba(0, 0, 0, 0.06) 0px 1px 2px 0px;
+}
+.childDiv:hover {
+    background-color: rgb(220, 220, 245);
+}
+.addPlaneButtons{
+    margin: 2%;
+}
